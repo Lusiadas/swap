@@ -1,0 +1,1 @@
+source $path/dependency.fish -r
